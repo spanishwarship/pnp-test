@@ -1,4 +1,4 @@
-# Dynamic Accordion - FAQ Builder
+# Dynamic Accordion - FAQ Builder Cool
 
 ## Summary
 
